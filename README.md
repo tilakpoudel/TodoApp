@@ -1,4 +1,5 @@
 # vuex-todos
+Web app frontend made with Vue js and data fetched from jsonplaceholder . You can enjoy the social media share feature to email and facebook . :) 
 
 ## Project setup
 ```
